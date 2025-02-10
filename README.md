@@ -8,6 +8,10 @@ Este projeto teve como objetivo realizar uma análise de crédito em risco, scor
 - **Power Query**: Limpeza e transformação de dados
 - **Excel**: Suporte na limpeza e organização dos dados
 
+## Datasets
+Os datasets utilizados neste projeto estão localizados na pasta `data/`. Aqui está uma breve descrição de cada arquivo:
+- `data/Credito.xlsx`: Contém informações detalhadas sobre crédito em risco, score de crédito e taxa de inadimplência.
+
 ## Principais Métricas e Visualizações
 1. **Crédito em Risco**: R$ 325.300,00
 2. **Score Médio**: 533
