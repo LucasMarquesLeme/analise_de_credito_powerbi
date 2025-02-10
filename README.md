@@ -6,7 +6,7 @@ Este projeto teve como objetivo realizar uma análise de crédito em risco, scor
 ## Tecnologias Utilizadas
 - **Power BI**: Criação de relatórios e visualizações
 - **Power Query**: Limpeza e transformação de dados
-- **Excel**: Suporte na limpeza e organização dos dados
+- **Excel**: Criação de datasets
 
 ## Datasets
 Os datasets utilizados neste projeto estão localizados na pasta `data/`. Aqui está uma breve descrição de cada arquivo:
@@ -18,9 +18,7 @@ Os datasets utilizados neste projeto estão localizados na pasta `data/`. Aqui e
 3. **Taxa de Inadimplência**: 52,50%
 
 ### Visualizações:
-- Média de Saldo Devedor (R$) por Região
-- Contagem de Cliente por Produto
-- Status de Pagamentos
+![Dashboard](./Captura%20de%20tela%202025-02-10%20141840.png)
 
 ## Como Visualizar
 Para visualizar o relatório, baixe o arquivo `.pbix` e abra no Power BI Desktop. As etapas de limpeza e transformação de dados estão documentadas no relatório do Power Query e no arquivo Excel anexado.
