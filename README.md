@@ -1,7 +1,7 @@
 # Análise Financeira no Power BI
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido para realizar uma análise financeira abrangente utilizando Power BI, com limpeza de dados feita no Power Query e Excel. O objetivo é identificar padrões, tendências e insights relevantes sobre o crédito em risco, score médio e taxa de inadimplência.
+Este projeto teve como objetivo realizar uma análise de crédito em risco, score médio e taxas de inadimplência utilizando Power BI, Power Query e Excel. O dataset foi montado manualmente, o que resultou em um volume menor de dados, mas permitiu um foco maior na criação de medidas e colunas utilizando fórmulas DAX, além de um trabalho detalhado de formatação e visualizações.
 
 ## Tecnologias Utilizadas
 - **Power BI**: Criação de relatórios e visualizações
